@@ -15,3 +15,5 @@
 [Gibbed's Volition Tools](https://github.com/gibbed/Gibbed.Volition) - Tools built to unpack/repack/convert some of the file formats for many of Volition's games, including rfg, and several of the saints row games. You can find pre-compiled binaries for them on nexus mods and faction files if you don't wish to compile them yourself.
 
 [RFGR Script Loader](https://github.com/Moneyl/RFGR-Script-Loader-Wiki) - A WIP modding tool for Red Faction Guerilla Re-mars-tered meant to add lua scripting to the game, and to bypass many of the limits of VPP modding. 
+
+[XTBL / Table File Editor](https://cdn.discordapp.com/attachments/519780750845935639/546475447345479691/File_Editor.zip) - A modding tool for Red Faction Guerrilla Re-Mars-tered for you to edit or view XTBL files from an unpacked VPP with ease.
