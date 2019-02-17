@@ -1,0 +1,9 @@
+<Mod Name="">
+  <Author></Author>
+  <Description></Description>
+  <Changes>
+    <Edit File="data\misc.vpp\FILE_TO_BE_EDITED.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name">
+	  
+    </Edit>
+  </Changes>
+</Mod>
