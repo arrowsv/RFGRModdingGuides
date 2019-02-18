@@ -1,5 +1,16 @@
 # RF:GR Modding Guides
+Repo containing guides, links, and other useful info pertaining to modding Red Faction Guerilla. Check out the [wiki](https://github.com/SimpleArrows/RFGRModdingGuides/wiki) for guides and see the sections below for more information.
 
+## Contents
+- [Questions and help](https://github.com/SimpleArrows/RFGRModdingGuides#questions-and-help)
+- [Contributing](https://github.com/SimpleArrows/RFGRModdingGuides#contributing)
+- [Useful Links](https://github.com/SimpleArrows/RFGRModdingGuides#useful-links)
+
+## Questions and Help
+Have any questions about modding that the guides don't cover, need help with something, or just want to find other rfg modders and players? The [official Red Faction discord server](https://discord.gg/RDsQKU8), also linked below, is the place to go. There's a fair amount of active users there who should be able to help you out when they get the chance. You should also check out the [Faction Files discord server](https://discord.gg/fRrUzuV). It's more focused on RF1, but holds an active community of fans of the Red Faction series.
+
+## Contributing
+Feel free to improve existing guides or write your own in the [wiki](https://github.com/SimpleArrows/RFGRModdingGuides/wiki) section. You're not required to ask a guide's maintainer before changing it, but it's courteous to do so if possible. If you want ideas on guides to write or improvements to be made, check out the [issues](https://github.com/SimpleArrows/RFGRModdingGuides/issues) section.
 
 ## Useful Links
 [Official Red Faction Discord](https://discord.gg/RDsQKU8) - The official Red Faction Discord created by THQ-Nordic. You can gather here to discuss modding and playing rfg, and to look for people to play mp with.
