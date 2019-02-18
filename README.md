@@ -2,7 +2,7 @@
 Repo containing guides, links, and other useful info pertaining to modding Red Faction Guerilla. Check out the [wiki](https://github.com/SimpleArrows/RFGRModdingGuides/wiki) for guides and see the sections below for more information.
 
 ## Contents
-- [Questions and help](https://github.com/SimpleArrows/RFGRModdingGuides#questions-and-help)
+- [Questions and Help](https://github.com/SimpleArrows/RFGRModdingGuides#questions-and-help)
 - [Contributing](https://github.com/SimpleArrows/RFGRModdingGuides#contributing)
 - [Useful Links](https://github.com/SimpleArrows/RFGRModdingGuides#useful-links)
 
